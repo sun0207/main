@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <ul>
-      <li @click="gotoPage">路由跳转的</li>
+      <li @click="gotoPage">主模块其他修改</li>
       <li><a href="/main/micro1" target="_self" rel="noopener">a标签跳转micro1</a></li>
       <li><a href="/main/micro2" target="_self" rel="noopener">a标签跳转micro2</a></li>
     </ul>
